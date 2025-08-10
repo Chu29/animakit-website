@@ -160,7 +160,7 @@ button.btn-about {
 
 #achievement {
   height: 100vh;
-  background: linear-gradient(to top,#0003, #000), url("../images/achievements.jpg");
+  background: linear-gradient(to top, #0003, #000), url("../images/achievements.jpg");
   background-size: cover;
   position: absolute;
   width: 100%;
