@@ -155,3 +155,8 @@ button.btn-about {
   height: 720px;
   border-radius: 12px;
 }
+
+#achievement {
+  height: 100vh;
+  background: linear-gradient(to top, #00000033,#000), url("../images/achievements.jpg");
+}
