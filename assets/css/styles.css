@@ -130,7 +130,7 @@ nav ul li a {
 }
 
 .about-left h3,
-.why-us-left>h3 {
+.why-us-left > h3 {
   color: var(--primary-color);
   letter-spacing: 2px;
   margin-bottom: 2em;
@@ -295,7 +295,7 @@ dd {
   padding: 0.5em 0;
 }
 
-.why-us-left>p {
+.why-us-left > p {
   margin: 1em 0;
 }
 
@@ -325,5 +325,5 @@ dd {
 .reason-3 {
   display: flex;
   align-items: flex-start;
- gap: 20px;
+  gap: 20px;
 }
